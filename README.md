@@ -1,4 +1,4 @@
-# Email_Extractor_From-Website
+# Email Extractor From - Website
 
 You have to just enter the name of the website which you want to crawl for email-addresses and it will do the rest.
 
